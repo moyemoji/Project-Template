@@ -1,0 +1,33 @@
+{
+  "name": "projecttest",
+  "version": "0.0.1",
+  "description": "some description",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack",
+    "example": "http-server -p 8880"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moyemoji/projectTest.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "https://github.com/moyemoji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moyemoji/projectTest/issues"
+  },
+  "homepage": "https://github.com/moyemoji/projectTest#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
