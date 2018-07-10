@@ -15,10 +15,11 @@ some description
 
 简单接入的文档
 
-- 使用文档
-- 二次开发文档
+- [使用文档](./doc/use/README.md)
+- [二次开发文档](./doc/dev/README.md)
 
 ## 交流 & 提问
 
+https://github.com/moyemoji/projectTest/pulls
 
-## 关于作者
+## 关于作者 
