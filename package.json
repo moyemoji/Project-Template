@@ -1,6 +1,6 @@
 {
   "name": "projecttest-my",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "some description",
   "main": "src/index.js",
   "scripts": {
