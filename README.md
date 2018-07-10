@@ -9,7 +9,7 @@ some description
 
 ## 安装下载
 
-
+- 下载地址 https://github.com/moyemoji/projectTest/releases
 
 ## 快速使用
 
