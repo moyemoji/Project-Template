@@ -1,6 +1,6 @@
 {
-  "name": "projecttest",
-  "version": "0.0.1",
+  "name": "projecttest-my",
+  "version": "0.0.2",
   "description": "some description",
   "main": "src/index.js",
   "scripts": {
@@ -29,5 +29,8 @@
     "babel-preset-latest": "^6.24.1",
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }
